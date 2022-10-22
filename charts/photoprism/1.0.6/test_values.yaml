@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: photoprism/photoprism
-  tag: "20220121"
+  tag: "20221021"
 password: "admin123"
 environmentVariables: []
 extraAppVolumeMounts: []
